@@ -1,4 +1,4 @@
-User-agent: *
-Allow: /
+user-agent:*
+Allow" /
 
 Sitemap: https://myportfolioisawesome.netlify.app/sitemap.xml
